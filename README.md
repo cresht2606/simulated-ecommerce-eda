@@ -36,4 +36,4 @@ conda activate your-env-name
 jupyter notebook
 ```
 ### 📋 Notes
-- All of statistics, figures is generated through random functions and served for educational purpose only.
+- All of statistics, figures are generated through random functions and served for educational purpose only.
